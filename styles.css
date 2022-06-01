@@ -47,5 +47,13 @@ span {
 }
 #introduction-display {
     background-color: white;
-    padding-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#name-display {
+    font-family: cursive;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 3rem;
 }
