@@ -27,3 +27,33 @@ footer {
     justify-content: flex-end;
     background-color: var(--footer-background);
 }
+#name-tag {
+    width: 250px;
+    background-color: blue;
+    text-align: center;
+    border-radius: 6px;
+    padding-top: 12px;
+    padding-bottom: 30px;
+
+}
+span {
+    display: block;
+}
+#greeting-display {
+    font-size: 3rem;
+    color: white;
+    font-weight: 700px;
+    text-transform: uppercase;
+}
+#introduction-display {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#name-display {
+    font-family: cursive;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 3rem;
+}

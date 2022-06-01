@@ -9,6 +9,7 @@
 ## Making a plan
 
 1. Make a drawing of your app. **Simple "wireframes"**
+![Wireframe](wireframe.png)
 1. Once you have a drawing, **name the HTML elements** you'll need to realize your vision**
 1. For each HTML element ask: **Why do I need this?**
     - Does this element need **static content**, or is the content **dynamic state**?
