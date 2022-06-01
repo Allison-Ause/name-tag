@@ -5,7 +5,7 @@ console.log(nameDisplay);
 // set event listeners
 nameInput.addEventListener('input', () => {
     const name = nameInput.value;
-    nameDisplay.textContent = name;
+    console.log('input happened');
 
 });
     // get info from user input
